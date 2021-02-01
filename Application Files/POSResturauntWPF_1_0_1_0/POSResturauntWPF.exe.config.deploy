@@ -18,7 +18,7 @@
     <connectionStrings>
         <!--<add name="DatabaseEntities" connectionString="data source=localhost\SQLEXPRESS;Initial Catalog=POSResturaunt_1;User ID=sa;Password=123456789;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
             providerName="System.Data.SqlClient" />-->
-		<add name="DatabaseEntities" connectionString="data source=localhost;Initial Catalog=POSResturaunt_1;User ID=sa;Password=godfather@syntaxdevelopers;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
+		<add name="DatabaseEntities" connectionString="data source=DESKTOP-J1RDPN8;Initial Catalog=POSResturaunt_1;User ID=sa;Password=godfather@syntaxdevelopers;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
             providerName="System.Data.SqlClient" />
     </connectionStrings>
 </configuration>
