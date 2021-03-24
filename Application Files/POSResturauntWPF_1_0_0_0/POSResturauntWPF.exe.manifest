@@ -102,50 +102,50 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.exe" size="231896">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.exe" size="238552">
       <assemblyIdentity name="POSResturauntWPF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>G59etOrv5ofrnRJVJw03cg/5egT7yiCLgN7zSn2Q5U8=</dsig:DigestValue>
+        <dsig:DigestValue>Mr18ZDteArUFxPOBMyE5bjnepntfgl9sHe7LlHejHfI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.Data.dll" size="131584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.Data.dll" size="150528">
       <assemblyIdentity name="POSResturauntWPF.Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aiSsL9AGh7S6WwnYWvQFCtMs+dC67tLbFBjNvZpD7q4=</dsig:DigestValue>
+        <dsig:DigestValue>hYotOjub2vy4v1CgvwPwPx5oXml9t64NUCRrEaclkYc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.Model.dll" size="17920">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.Model.dll" size="18432">
       <assemblyIdentity name="POSResturauntWPF.Model" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>++XYWxpQu8k0xJ08VReN2eRBIMXg9bLE3Dqes144kxs=</dsig:DigestValue>
+        <dsig:DigestValue>Jp+WF6RW1OvVrrXCo597p/qpbWC5OKULfZWVl89FXcM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.Service.dll" size="12800">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POSResturauntWPF.Service.dll" size="13824">
       <assemblyIdentity name="POSResturauntWPF.Service" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DlsXFZXTmBJ9W4ok3Up/HU122UqQMFSh8rEDoJpBHJc=</dsig:DigestValue>
+        <dsig:DigestValue>zpqr2gfAYEAI0/voZ04HwF9TuGrz/y4psUPEYcsbMKQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -695,7 +695,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>R0gLBT549MrinyK7ZzmMw/tSP5EUdrExSStmO9c5tHM=</dsig:DigestValue>
+      <dsig:DigestValue>o/2Hu0cPJCmeEOLNPZ5eixcFp3bj2pahaoYTrvkvy64=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Receipt.rdlc" size="47645">
@@ -707,4 +707,4 @@
       <dsig:DigestValue>kY2US9HM0DHSfQMHuNJlOLhU5yXWat7JrbdHg7O3WIw=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=DESKTOP-A4NJUGD\DELL" issuerKeyHash="4c60781a7aa685dead9d6119c7791d4f129f54f7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OEubgdMiOhpl6KZznlCvH18XjLpb8TVUPizN8BRUmiw=</DigestValue></Reference></SignedInfo><SignatureValue>euBuslx3wYU9MbNec7sQTTAu8/OxNlkfY51DJVo9Vkzn8fDDeeE+4arzDNKl+40jvH5in0x4x7DsR0Dya3CKmwgidboW2Jr0F4p2kNT+SN71M1F9rClJRLf3K4yy2+et2j1p4aT4yytS5HzMsOiP3BCw/3AFAASeqRHE3lLyyfk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y4H7o/nMqnpwAoXlLkOEIzFqG0ZaZ7v+6cJxnV0ZD2okpiUAENWWw+5idXgTMCwi84J13cB7ui4k9bgNUqmjajY3lsQTo3u0gMfSh1lukLEkikN2px+OxYF333InJJRBwVRWjtvUA149YQbuqkdL78TkOVKeFWbCn+x+W9jg88E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2c9a5414f0cd2c3e5435f15bba8c175f1faf509e73a6e8651a3a22d3819b4b38" Description="" Url=""><as:assemblyIdentity name="POSResturauntWPF.exe" version="1.0.0.0" publicKeyToken="29c767890f8c5782" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-A4NJUGD\DELL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9WYZ3plpnarr32rtQJ+AE7VgeaHIjzLobDRLtzaGnL4=</DigestValue></Reference></SignedInfo><SignatureValue>hxzBuFmSiScy9A2cEKZOZFOy2LJlX93NupvTZLp5s6qRQOj7/X5CMKugGnJNZ1t9oTVbXeMjcXRw5zooWPUylLApkiJZxyZgdFK5HpL1ZrYbqX1fqFPr0/ImlG7hpeQFkLTukWZL23zK4f46eKgHuxhwwCg9m4Ay4NoJhEopX4I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y4H7o/nMqnpwAoXlLkOEIzFqG0ZaZ7v+6cJxnV0ZD2okpiUAENWWw+5idXgTMCwi84J13cB7ui4k9bgNUqmjajY3lsQTo3u0gMfSh1lukLEkikN2px+OxYF333InJJRBwVRWjtvUA149YQbuqkdL78TkOVKeFWbCn+x+W9jg88E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQcjVARlZXHr5EBrpWv2SPUTANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEEANABOAEoAVQBHAEQAXABEAEUATABMMB4XDTIxMDEyOTE1MjUzMloXDTIyMDEyOTIxMjUzMlowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBBADQATgBKAFUARwBEAFwARABFAEwATDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy4H7o/nMqnpwAoXlLkOEIzFqG0ZaZ7v+6cJxnV0ZD2okpiUAENWWw+5idXgTMCwi84J13cB7ui4k9bgNUqmjajY3lsQTo3u0gMfSh1lukLEkikN2px+OxYF333InJJRBwVRWjtvUA149YQbuqkdL78TkOVKeFWbCn+x+W9jg88ECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBhoPsfJ4xATYgsmUXXRdNYbLwng8vHpzGyR6O7OaAz0wtH70+4BPJbdEWIfTKkiZOxVWE2pXN/6scvB5n372wqEdT44J6X0dxVJDQ4WQ0/D1CPScwpeq9mLa706sWX6rlpzri06IhwBOnyPZEraKwtOYO3CXNvNjnAj9tx9qIk5Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=DESKTOP-A4NJUGD\DELL" issuerKeyHash="4c60781a7aa685dead9d6119c7791d4f129f54f7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/rFLIYvt2284xnKMdIsdKiKz6WqkGk/7WGC6UGM0WWc=</DigestValue></Reference></SignedInfo><SignatureValue>Ip1KZSFGchjeRuVb0SR8fMXSSShzXwXSK8Zg7bqZSqqnpvTFk4Y9lPX0duNXyrvR24D7NRd/Zkc5A3lFhGgwOIzvfq8kgGG2VUlr/eYk7IUZ1He2T5Zqq6kx9h7DYAinb/WE3rX0XA3OCxvU7WnnIVDZilVzdpitO7nEERigO30=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y4H7o/nMqnpwAoXlLkOEIzFqG0ZaZ7v+6cJxnV0ZD2okpiUAENWWw+5idXgTMCwi84J13cB7ui4k9bgNUqmjajY3lsQTo3u0gMfSh1lukLEkikN2px+OxYF333InJJRBwVRWjtvUA149YQbuqkdL78TkOVKeFWbCn+x+W9jg88E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6759346350ba6058fb4f1aa46ae9b3222a1d8b748c72c6386fdbed8b214bb1fe" Description="" Url=""><as:assemblyIdentity name="POSResturauntWPF.exe" version="1.0.0.0" publicKeyToken="29c767890f8c5782" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-A4NJUGD\DELL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xFgYxwGFnMXUL/Gtmc29/bvCxuIZiRIhINBOd+YulIQ=</DigestValue></Reference></SignedInfo><SignatureValue>EWexQv1Hq6+91j8rqGVFdnTT2R/pa5RoIIWT4bjze2Ski1nDkHKTbqA07tbr3ysEe0KF+gvvX7izyIY83sc7POHoHHpRqu/yZLd1OsXT44kcCyUksXc47DvChMUoRnnInOc0q2LT71y5PuY9b9pyNkUYSY3IfEqLpJ3Cttvvp7U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y4H7o/nMqnpwAoXlLkOEIzFqG0ZaZ7v+6cJxnV0ZD2okpiUAENWWw+5idXgTMCwi84J13cB7ui4k9bgNUqmjajY3lsQTo3u0gMfSh1lukLEkikN2px+OxYF333InJJRBwVRWjtvUA149YQbuqkdL78TkOVKeFWbCn+x+W9jg88E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQcjVARlZXHr5EBrpWv2SPUTANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEEANABOAEoAVQBHAEQAXABEAEUATABMMB4XDTIxMDEyOTE1MjUzMloXDTIyMDEyOTIxMjUzMlowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBBADQATgBKAFUARwBEAFwARABFAEwATDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy4H7o/nMqnpwAoXlLkOEIzFqG0ZaZ7v+6cJxnV0ZD2okpiUAENWWw+5idXgTMCwi84J13cB7ui4k9bgNUqmjajY3lsQTo3u0gMfSh1lukLEkikN2px+OxYF333InJJRBwVRWjtvUA149YQbuqkdL78TkOVKeFWbCn+x+W9jg88ECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBhoPsfJ4xATYgsmUXXRdNYbLwng8vHpzGyR6O7OaAz0wtH70+4BPJbdEWIfTKkiZOxVWE2pXN/6scvB5n372wqEdT44J6X0dxVJDQ4WQ0/D1CPScwpeq9mLa706sWX6rlpzri06IhwBOnyPZEraKwtOYO3CXNvNjnAj9tx9qIk5Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
