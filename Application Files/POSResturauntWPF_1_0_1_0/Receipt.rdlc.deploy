@@ -577,9 +577,9 @@
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>DataSet1</DataSetName>
-            <Top>3.05998in</Top>
+            <Top>3.60721in</Top>
             <Height>0.44166in</Height>
-            <Width>2.68652in</Width>
+            <Width>2.68653in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -626,7 +626,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.22109in</Top>
+            <Top>4.74054in</Top>
             <Left>0.89071in</Left>
             <Height>0.18334in</Height>
             <Width>1.80408in</Width>
@@ -667,7 +667,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.79053in</Top>
+            <Top>4.30998in</Top>
             <Left>0.89071in</Left>
             <Height>0.19167in</Height>
             <Width>1.80408in</Width>
@@ -711,7 +711,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.00164in</Top>
+            <Top>4.52109in</Top>
             <Left>0.89071in</Left>
             <Height>0.19167in</Height>
             <Width>1.80408in</Width>
@@ -755,7 +755,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.55719in</Top>
+            <Top>4.07664in</Top>
             <Left>0.88737in</Left>
             <Height>0.19167in</Height>
             <Width>1.80408in</Width>
@@ -799,7 +799,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>1.63719in</Top>
+            <Top>2.18442in</Top>
             <Height>0.19167in</Height>
             <Width>1.10856in</Width>
             <ZIndex>6</ZIndex>
@@ -842,13 +842,13 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.08997in</Top>
+            <Top>2.6372in</Top>
             <Left>1.178in</Left>
             <Height>0.19167in</Height>
             <Width>1.51344in</Width>
             <ZIndex>7</ZIndex>
             <Visibility>
-              <Hidden>=IIf(First(Fields!OrderTypeNumber.Value, "DataSet2"), true, false)</Hidden>
+              <Hidden>=IIf(First(Fields!OrderTypeNumber.Value, "DataSet2") Is Nothing, true, false)</Hidden>
             </Visibility>
             <Style>
               <Border>
@@ -886,7 +886,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>1.63719in</Top>
+            <Top>2.18442in</Top>
             <Left>1.178in</Left>
             <Height>0.19167in</Height>
             <Width>1.51344in</Width>
@@ -930,7 +930,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.3172in</Top>
+            <Top>2.86443in</Top>
             <Height>0.19167in</Height>
             <Width>1.10856in</Width>
             <ZIndex>9</ZIndex>
@@ -973,7 +973,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.08997in</Top>
+            <Top>2.6372in</Top>
             <Height>0.19167in</Height>
             <Width>1.10856in</Width>
             <ZIndex>10</ZIndex>
@@ -1016,7 +1016,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.3172in</Top>
+            <Top>2.86443in</Top>
             <Left>1.178in</Left>
             <Height>0.19167in</Height>
             <Width>1.51344in</Width>
@@ -1060,8 +1060,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.55053in</Top>
-            <Left>0.00827in</Left>
+            <Top>3.09776in</Top>
             <Height>0.46778in</Height>
             <Width>2.68652in</Width>
             <ZIndex>12</ZIndex>
@@ -1104,7 +1103,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>1.87052in</Top>
+            <Top>2.41775in</Top>
             <Height>0.19167in</Height>
             <Width>1.10856in</Width>
             <ZIndex>13</ZIndex>
@@ -1147,7 +1146,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>1.87052in</Top>
+            <Top>2.41775in</Top>
             <Left>1.178in</Left>
             <Height>0.19167in</Height>
             <Width>1.51678in</Width>
@@ -1165,8 +1164,124 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
+          <Textbox Name="Textbox1">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>4-B Unique Tower, Opposite Nadra Office, Kohinoor</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>041-6076725</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>0311-6076725</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>PNTN No: 7957119-3</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox1</rd:DefaultName>
+            <Top>1.58164in</Top>
+            <Height>0.575in</Height>
+            <Width>2.67825in</Width>
+            <ZIndex>15</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox2">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>GST(16%): Rs </Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=(16/100)*First(Fields!TotalAmount.Value, "DataSet2")</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox2</rd:DefaultName>
+            <Top>4.96555in</Top>
+            <Left>0.88737in</Left>
+            <Height>0.25in</Height>
+            <Width>1.79581in</Width>
+            <ZIndex>16</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
         </ReportItems>
-        <Height>4.40443in</Height>
+        <Height>5.21555in</Height>
         <Style>
           <Border>
             <Style>None</Style>
