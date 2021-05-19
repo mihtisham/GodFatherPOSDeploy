@@ -607,7 +607,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Total: Rs </Value>
+                    <Value>Total:  Rs </Value>
                     <Style>
                       <FontSize>8pt</FontSize>
                       <FontWeight>Normal</FontWeight>
@@ -648,7 +648,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>GST: Rs </Value>
+                    <Value>GST:  Rs </Value>
                     <Style>
                       <FontSize>8pt</FontSize>
                       <FontWeight>Normal</FontWeight>
@@ -692,7 +692,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Discount: Rs </Value>
+                    <Value>Discount : Rs </Value>
                     <Style>
                       <FontSize>8pt</FontSize>
                       <FontWeight>Normal</FontWeight>
@@ -736,7 +736,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>SubTotal: Rs </Value>
+                    <Value>SubTotal:  Rs </Value>
                     <Style>
                       <FontSize>8pt</FontSize>
                       <FontWeight>Normal</FontWeight>
@@ -1247,7 +1247,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>GST(16%): Rs </Value>
+                    <Value>GST(16%):  Rs </Value>
                     <Style>
                       <FontSize>8pt</FontSize>
                     </Style>
